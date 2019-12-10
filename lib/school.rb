@@ -12,4 +12,4 @@ class School
     @grade = grade
   end 
   
-  def 
+  def add_student
