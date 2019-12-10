@@ -1,2 +1,4 @@
 class School
+  
+  ROSTER = []
 end 
