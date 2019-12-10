@@ -8,4 +8,8 @@ class School
     @student = student
   end 
   
+  def grade=(grade)
+    @grade = grade
+  end 
+  
   def 
